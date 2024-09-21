@@ -1,2 +1,2 @@
 # rStudio
-These are some basic RStudio programs
+These are some basic R Studio programs
